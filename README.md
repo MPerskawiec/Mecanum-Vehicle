@@ -1,5 +1,5 @@
 # Mecanum-Vehicle
-The goal of the project was to build a mobile robot of class (3.0). The developed platform can be utilized in two configurations: as an amortized system and as a rigid chassis.
+The goal of the project was to build a mobile robot of class (3.0). The developed platform can be utilized in two configurations: as an amortized system and as a rigid chassis. 
 
 As part of the project, fundamental mechanical and electronic systems were designed and manufactured. The robot software was written and segmented into tasks related to movement and maintaining a specified trajectory. For control purposes, a control panel was created, communicating with the platform via radio using Bluetooth modules.
 
